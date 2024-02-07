@@ -46,6 +46,9 @@ basicCN + geom_boxplot()
 ```
 
 
+I can see a clear difference more predominantly between LT High School Students on one hand and Junior College Students & Graduate Students on the other hand. There doesn't seem to be a great difference between Junior College Students and Bachelor Students. As well as, between LT High School students and High School Students.  
+
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
