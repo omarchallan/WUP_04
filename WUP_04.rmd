@@ -86,3 +86,11 @@ The high school-graduate and the light high school–graduate lines did not cros
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+
+First, we plot a graphical descriptive results where we weren't able to determine if there is a difference between the scores based on races beacasue the data was not clear enough. After that we ran a favstats to look at the mean value for each race where we concluded that average/mean values between BLACK and WHITE are very close however the mean value for the OTHER race is have a lower value meaning that there is a difference between the OTHER and both the WHITE and BLACK races. Then we ran a one way anove test to look that our p-value which came out to be less than 0.05. Finally ran a multiple comparison test, we concluded that these is a significant difference between the WHITE-OTHER races.
+    
+$H_0$ There is no difference between the average score on the WORDSUM test between OTHER-BLACK and the WHITE-BLACK races 
+
+$H_a$ There is a significant difference in average score on the WORDSUM test between WHITE-OTHER races
