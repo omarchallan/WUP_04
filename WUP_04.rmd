@@ -80,6 +80,9 @@ plot(TukeyHSD(model1),las=2)
 ```
 
 
+The high school-graduate and the light high school–graduate lines did not cross the zero line. They do not have zero in their confidence difference. Therefore, we have a significant difference between these two categories.   
+
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
